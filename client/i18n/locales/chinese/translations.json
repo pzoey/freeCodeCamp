@@ -1408,5 +1408,14 @@
         "advanced": "高级"
       }
     }
+  },
+  "ai-coach": {
+    "open-button": "AI 教练",
+    "modal-title": "AI 教练",
+    "modal-description": "你可以向 AI 教练提问当前挑战相关的问题。",
+    "placeholder": {
+      "assistant": "👋 你好！我是你的 AI 教练。点击后即可开始对话。",
+      "user": "你：我该如何调试这个挑战？"
+    }
   }
 }

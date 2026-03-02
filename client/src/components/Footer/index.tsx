@@ -5,6 +5,7 @@ import { Col, Spacer } from '@freecodecamp/ui';
 import appleStoreBadge from '../../assets/images/footer-ads/apple-store-badge.svg';
 import googlePlayBadge from '../../assets/images/footer-ads/google-play-badge.svg';
 import { Link } from '../helpers';
+import FloatingAICoach from '../AICoach/floating-ai-coach';
 import './footer.css';
 
 function Footer(): JSX.Element {
@@ -12,6 +13,7 @@ function Footer(): JSX.Element {
 
   return (
     <footer className='site-footer'>
+      <FloatingAICoach />
       <div className='footer-top'>
         <div className='footer-desc-col'>
           <p>{t('footer.tax-exempt-status')}</p>

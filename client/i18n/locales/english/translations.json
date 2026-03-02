@@ -1408,5 +1408,14 @@
         "advanced": "Advanced"
       }
     }
+  },
+  "ai-coach": {
+    "open-button": "AI Coach",
+    "modal-title": "AI Coach",
+    "modal-description": "Ask your AI coach anything about your current challenge.",
+    "placeholder": {
+      "assistant": "👋 Hi! I am your AI coach. Click to start chatting.",
+      "user": "You: How can I debug this challenge?"
+    }
   }
 }
