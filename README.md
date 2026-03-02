@@ -1,12 +1,12 @@
-[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
+[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.colacode.club/)
 
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay)
 [![LFX Active Contributors](https://insights.linuxfoundation.org/api/badge/active-contributors?project=freecodecamp&repos=https://github.com/freeCodeCamp/freeCodeCamp)](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp)
 
-## freeCodeCamp.org's open-source codebase and curriculum
+## 可乐编程俱乐部（colacodeclub）开源代码库与课程
 
-[freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) charity](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech. Our community has already helped more than 100,000 people get their first developer job.
+[可乐编程俱乐部（colacodeclub）](https://www.colacode.club) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) charity](https://www.colacode.club/donate) to help millions of busy adults transition into tech. Our community has already helped more than 100,000 people get their first developer job.
 
 Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
@@ -26,24 +26,24 @@ freeCodeCamp.org offers several free developer certifications. Each of these cer
 
 Once you've earned a certification, you will always have it. You will always be able to link to it from your LinkedIn or resume. And when your prospective employers or freelance clients click that link, they'll see a verified certification specific to you.
 
-The one exception to this is if we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
+The one exception to this is if we discover violations of our [Academic Honesty Policy](https://www.colacode.club/news/academic-honesty-policy/). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
 
 ### The Learning Platform
 
-This code is running live at [freeCodeCamp.org](https://www.freecodecamp.org).
+This code is running live at [可乐编程俱乐部（colacodeclub）](https://www.colacode.club).
 
 Our community also has:
 
-- A [forum](https://forum.freecodecamp.org) where you can usually get programming help or project feedback within hours.
+- A [forum](https://www.colacode.club/forum) where you can usually get programming help or project feedback within hours.
 - A [YouTube channel](https://youtube.com/freecodecamp) with free courses on Python, SQL, Android, and a wide variety of other technologies.
-- A [technical publication](https://www.freecodecamp.org/news) with thousands of programming tutorials and articles about mathematics and computer science.
+- A [technical publication](https://www.colacode.club/news) with thousands of programming tutorials and articles about mathematics and computer science.
 - A [Discord server](https://discord.gg/Z7Fm39aNtZ) where you can hang out and talk with developers and people who are learning to code.
 
-> #### [Join the community here](https://www.freecodecamp.org/signin).
+> #### [Join the community here](https://www.colacode.club/signin).
 
 ### Reporting Bugs and Issues
 
-If you think you've found a bug, first read the [how to report a bug](https://forum.freecodecamp.org/t/how-to-report-a-bug/19543) article and follow its instructions.
+If you think you've found a bug, first read the [how to report a bug](https://www.colacode.club/forum/t/how-to-report-a-bug/19543) article and follow its instructions.
 
 If you're confident it's a new bug and have confirmed that someone else is facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
 
@@ -51,13 +51,13 @@ If you're confident it's a new bug and have confirmed that someone else is facin
 
 We appreciate responsible disclosure of vulnerabilities that might impact the integrity of our platforms and users.
 
-> #### [Read our security policy and follow these steps to report a vulnerability](https://contribute.freecodecamp.org/#/security).
+> #### [Read our security policy and follow these steps to report a vulnerability](https://www.colacode.club/contribute/#/security).
 
 ### Contributing
 
 The freeCodeCamp.org community is possible thanks to thousands of kind volunteers like you. We welcome all contributions to the community and are excited to welcome you aboard.
 
-> #### [Please follow these steps to contribute](https://contribute.freecodecamp.org).
+> #### [Please follow these steps to contribute](https://www.colacode.club/contribute).
 
 Recent Contributions:
 

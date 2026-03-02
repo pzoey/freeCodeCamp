@@ -16,7 +16,7 @@ module.exports = {
     DEV_SSR: false
   },
   siteMetadata: {
-    title: 'freeCodeCamp',
+    title: '可乐编程俱乐部（colacodeclub）',
     siteUrl: homeLocation
   },
   pathPrefix: pathPrefix,

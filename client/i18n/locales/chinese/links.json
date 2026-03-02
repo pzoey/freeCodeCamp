@@ -1,27 +1,27 @@
 {
-  "help-translate-link-url": "https://contribute.freecodecamp.org/getting-started/#translations",
-  "top-contributors": "https://www.freecodecamp.org/news/freecodecamp-top-contributors/",
+  "help-translate-link-url": "https://www.colacode.club/contribute/getting-started/#translations",
+  "top-contributors": "https://www.colacode.club/news/freecodecamp-top-contributors/",
   "footer": {
-    "about-url": "https://chinese.freecodecamp.org/news/about/",
-    "shop-url": "https://shop.freecodecamp.org/",
-    "support-url": "https://chinese.freecodecamp.org/news/support/",
-    "sponsors-url": "https://www.freecodecamp.org/news/sponsors/",
-    "honesty-url": "https://chinese.freecodecamp.org/news/academic-honesty-policy/",
-    "coc-url": "https://chinese.freecodecamp.org/news/code-of-conduct/",
-    "privacy-url": "https://www.freecodecamp.org/news/privacy-policy/",
-    "tos-url": "https://www.freecodecamp.org/news/terms-of-service/",
-    "copyright-url": "https://www.freecodecamp.org/news/copyright-policy/"
+    "about-url": "https://www.colacode.club/chinese/news/about/",
+    "shop-url": "https://www.colacode.club/shop/",
+    "support-url": "https://www.colacode.club/chinese/news/support/",
+    "sponsors-url": "https://www.colacode.club/news/sponsors/",
+    "honesty-url": "https://www.colacode.club/chinese/news/academic-honesty-policy/",
+    "coc-url": "https://www.colacode.club/chinese/news/code-of-conduct/",
+    "privacy-url": "https://www.colacode.club/news/privacy-policy/",
+    "tos-url": "https://www.colacode.club/news/terms-of-service/",
+    "copyright-url": "https://www.colacode.club/news/copyright-policy/"
   },
   "donate": {
-    "other-ways-url": "https://chinese.freecodecamp.org/news/how-to-donate-to-free-code-camp/",
-    "download-irs-url": "https://s3.amazonaws.com/freecodecamp/Free+Code+Camp+Inc+IRS+Determination+Letter.pdf",
-    "download-990-url": "https://freecodecamp.s3.amazonaws.com/freeCodeCamp+2019+f990.pdf",
-    "one-time-url": "https://paypal.me/freecodecamp"
+    "other-ways-url": "https://www.colacode.club/chinese/news/how-to-donate-to-free-code-camp/",
+    "download-irs-url": "https://www.colacode.club/assets/Free+Code+Camp+Inc+IRS+Determination+Letter.pdf",
+    "download-990-url": "https://www.colacode.club/assets/freeCodeCamp+2019+f990.pdf",
+    "one-time-url": "https://www.colacode.club/donate"
   },
   "nav": {
-    "contribute": "https://contribute.freecodecamp.org/#/i18n/chinese/index",
-    "forum": "https://forum.freecodecamp.org/c/chinese/533",
-    "news": "https://chinese.freecodecamp.org/news/",
+    "contribute": "https://www.colacode.club/contribute/#/i18n/chinese/index",
+    "forum": "https://www.colacode.club/forum/c/chinese/533",
+    "news": "https://www.colacode.club/chinese/news/",
     "podcast": "open.spotify.com/show/3dIVV6XRRPMs75z2xDtsOg?si=Ugm6rwlcTgiEJ1Udw9WzVQ"
   },
   "help": {
