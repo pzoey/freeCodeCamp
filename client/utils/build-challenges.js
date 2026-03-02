@@ -21,7 +21,7 @@ const {
 } = require('../../curriculum/dist/build-superblock.js');
 const { getSuperOrder } = require('../../curriculum/dist/super-order.js');
 
-const curriculumLocale = process.env.CURRICULUM_LOCALE || 'english';
+const curriculumLocale = process.env.CURRICULUM_LOCALE || 'chinese';
 
 exports.localeChallengesRootDir = getContentDir(curriculumLocale);
 
